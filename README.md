@@ -1,2 +1,6 @@
 # human_motion_encoding
-![Alt Tex](https://github.com/WeiyuDu/motion_encode/demo/37_gt.gif)
+<img src="https://github.com/WeiyuDu/motion_encode/blob/master/demo/140_gt.gif" width="200" height="200"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/demo/140_pred_sin.gif" width="200" height="200"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/demo/140_pred_b.gif" width="200" height="200"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/demo/140_lerp.gif" width="200" height="200"/>
+
+<img src="https://github.com/WeiyuDu/motion_encode/blob/master/demo/37_gt.gif" width="200" height="200"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/demo/37_pred_sin.gif" width="200" height="200"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/demo/37_pred_b.gif" width="200" height="200"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/demo/37_lerp.gif" width="200" height="200"/>
+
+<img src="https://github.com/WeiyuDu/motion_encode/blob/master/demo/156_gt.gif" width="200" height="200"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/demo/156_pred_sin.gif" width="200" height="200"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/demo/156_pred_b.gif" width="200" height="200"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/demo/156_lerp.gif" width="200" height="200"/>
