@@ -7,8 +7,6 @@
 
 <img src="https://github.com/WeiyuDu/motion_encode/blob/master/demo/40_gt.gif" width="200" height="200"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/demo/40_pred_sin.gif" width="200" height="200"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/demo/40_pred_b.gif" width="200" height="200"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/demo/40_lerp.gif" width="200" height="200"/>
 
-<img src="https://github.com/WeiyuDu/motion_encode/blob/master/demo/37_gt.gif" width="200" height="200"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/demo/37_pred_sin.gif" width="200" height="200"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/demo/37_pred_b.gif" width="200" height="200"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/demo/37_lerp.gif" width="200" height="200"/>
-
 <img src="https://github.com/WeiyuDu/motion_encode/blob/master/demo/126_gt.gif" width="200" height="200"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/demo/126_pred_sin.gif" width="200" height="200"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/demo/126_pred_b.gif" width="200" height="200"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/demo/126_lerp.gif" width="200" height="200"/>
 
 <img src="https://github.com/WeiyuDu/motion_encode/blob/master/demo/140_gt.gif" width="200" height="200"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/demo/140_pred_sin.gif" width="200" height="200"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/demo/140_pred_b.gif" width="200" height="200"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/demo/140_lerp.gif" width="200" height="200"/>
