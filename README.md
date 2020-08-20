@@ -13,3 +13,5 @@ From left to right: ground truth, prediction by Sine Motion Encoding, prediction
 <!---
 <img src="https://github.com/WeiyuDu/motion_encode/blob/master/demo/140_gt.gif" width="200" height="200"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/demo/140_pred_sin.gif" width="200" height="200"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/demo/140_pred_b.gif" width="200" height="200"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/demo/140_lerp.gif" width="200" height="200"/>
 --->
+Human3.6M test set, sub-sampled 5 times, 30 frames demo.
+From left to right: ground truth, prediction by Sine Motion Encoding, prediction by Bezier Motion Encoding, latent linear interpolation baseline.
