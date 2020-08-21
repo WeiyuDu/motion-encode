@@ -31,6 +31,4 @@ From left to right: ground truth, prediction by Sine Motion Encoding(6 curves), 
 Coming up: Reconstruction sequences + generation at different frame rates.  
 Reconstruction on AMASS test set, with Sine Motion Encoding.   
 
-<img src="https://github.com/WeiyuDu/motion_encode/blob/master/recon/r_sin_1_gt.gif" width="200" height="200"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/recon/r_sin_1_fitted.gif" width="200" height="200"/>
-
-<img src="https://github.com/WeiyuDu/motion_encode/blob/master/recon/r_sin_8_gt.gif" width="200" height="200"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/recon/r_sin_8_fitted.gif" width="200" height="200"/>
+<img src="https://github.com/WeiyuDu/motion_encode/blob/master/recon/r_sin_1_gt.gif" width="200" height="200"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/recon/r_sin_1_fitted.gif" width="200" height="200"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/recon/r_sin_8_gt.gif" width="200" height="200"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/recon/r_sin_8_fitted.gif" width="200" height="200"/>
