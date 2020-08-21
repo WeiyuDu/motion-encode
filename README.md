@@ -1,4 +1,4 @@
-# human_motion_encoding
+# Toward Continuous-Time Representation of Human Motion
 AMASS test set, 30 frames demo.  
 From left to right: ground truth, prediction by Sine Motion Encoding, prediction by Bezier Motion Encoding, latent linear interpolation baseline.  
 <img src="https://github.com/WeiyuDu/motion_encode/blob/master/amass/60_gt.gif" width="200" height="200"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/amass/60_pred_sin.gif" width="200" height="200"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/amass/60_pred_b.gif" width="200" height="200"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/amass/60_lerp.gif" width="200" height="200"/>
@@ -28,3 +28,4 @@ From left to right: ground truth, prediction by Sine Motion Encoding(6 curves), 
 <!---
 <img src="https://github.com/WeiyuDu/motion_encode/blob/master/h36m/91_gt.gif" width="150" height="150"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/h36m/91_pred.gif" width="150" height="150"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/h36m/91_pred_sin.gif" width="150" height="150"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/h36m/91_pred_b.gif" width="150" height="150"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/h36m/91_lerp.gif" width="150" height="150"/>
 --->
+Coming up: Reconstruction sequences + generation at different frame rates.
