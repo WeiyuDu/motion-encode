@@ -33,7 +33,7 @@ Point-to-point motion generation on Human3.6M test set (sub-sampled 5 times, 30 
 
 <img src="https://github.com/WeiyuDu/motion_encode/blob/master/h36m/71_gt.gif" width="150" height="150"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/h36m/71_pred.gif" width="150" height="150"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/h36m/71_pred_sin.gif" width="150" height="150"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/h36m/71_pred_b.gif" width="150" height="150"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/h36m/71_lerp.gif" width="150" height="150"/>
 
-Motion generation at different lengths and framerates on Human3.6M test set using Sine Motion Encoding (3 curves), from left to right: ground truth (30 frames, fps=12), prediction (30 frames, fps=12), prediction (60 frames, fps=24). 
+Motion generation at different lengths and frame rates on Human3.6M test set using Sine Motion Encoding (3 curves), from left to right: ground truth (30 frames, fps=12), prediction (30 frames, fps=12), prediction (60 frames, fps=24). 
 
 <img src="https://github.com/WeiyuDu/motion_encode/blob/master/frame/50_gt.gif" width="200" height="200"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/frame/50_pred.gif" width="200" height="200"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/frame/50_pred_long.gif" width="200" height="200"/>
 
