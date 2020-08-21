@@ -28,4 +28,7 @@ From left to right: ground truth, prediction by Sine Motion Encoding(6 curves), 
 <!---
 <img src="https://github.com/WeiyuDu/motion_encode/blob/master/h36m/91_gt.gif" width="150" height="150"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/h36m/91_pred.gif" width="150" height="150"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/h36m/91_pred_sin.gif" width="150" height="150"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/h36m/91_pred_b.gif" width="150" height="150"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/h36m/91_lerp.gif" width="150" height="150"/>
 --->
-Coming up: Reconstruction sequences + generation at different frame rates.
+Coming up: Reconstruction sequences + generation at different frame rates.  
+Reconstruction on AMASS test set, with Sine Motion Encoding.   
+
+<img src="https://github.com/WeiyuDu/motion_encode/blob/master/recon/r_sin_1_gt.gif" width="200" height="200"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/recon/r_sin_1_fitted.gif" width="200" height="200"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/recon/r_sin_8_gt.gif" width="200" height="200"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/recon/r_sin_8_fitted.gif" width="200" height="200"/>
