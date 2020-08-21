@@ -1,4 +1,14 @@
 # Toward Continuous-Time Representation of Human Motion
+Reconstruction on AMASS test set, from left to right: ground truth, reconstruction with Sine Motion Encoding, reconstruction with Bezier Motion Encoding.   
+
+<img src="https://github.com/WeiyuDu/motion_encode/blob/master/recon/r_sin_1_gt.gif" width="200" height="200"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/recon/r_sin_1_fitted.gif" width="200" height="200"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/recon/r_b_1_pred.gif" width="200" height="200"/>
+
+<img src="https://github.com/WeiyuDu/motion_encode/blob/master/recon/r_sin_8_gt.gif" width="200" height="200"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/recon/r_sin_8_fitted.gif" width="200" height="200"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/recon/r_b_8_pred.gif" width="200" height="200"/>
+
+<img src="https://github.com/WeiyuDu/motion_encode/blob/master/recon/r_b_10_gt.gif" width="200" height="200"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/recon/r_sin_10_pred.gif" width="200" height="200"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/recon/r_b_10_pred.gif" width="200" height="200"/>
+
+<img src="https://github.com/WeiyuDu/motion_encode/blob/master/recon/r_b_11_gt.gif" width="200" height="200"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/recon/r_sin_11_pred.gif" width="200" height="200"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/recon/r_b_11_pred.gif" width="200" height="200"/>
+
 AMASS test set, 30 frames demo.  
 From left to right: ground truth, prediction by Sine Motion Encoding, prediction by Bezier Motion Encoding, latent linear interpolation baseline.  
 <img src="https://github.com/WeiyuDu/motion_encode/blob/master/amass/60_gt.gif" width="200" height="200"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/amass/60_pred_sin.gif" width="200" height="200"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/amass/60_pred_b.gif" width="200" height="200"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/amass/60_lerp.gif" width="200" height="200"/>
@@ -29,19 +39,9 @@ From left to right: ground truth, prediction by Sine Motion Encoding(6 curves), 
 <img src="https://github.com/WeiyuDu/motion_encode/blob/master/h36m/91_gt.gif" width="150" height="150"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/h36m/91_pred.gif" width="150" height="150"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/h36m/91_pred_sin.gif" width="150" height="150"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/h36m/91_pred_b.gif" width="150" height="150"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/h36m/91_lerp.gif" width="150" height="150"/>
 --->
 
-Reconstruction on AMASS test set, from left to right: ground truth, reconstruction with Sine Motion Encoding, reconstruction with Bezier Motion Encoding.   
-
-<img src="https://github.com/WeiyuDu/motion_encode/blob/master/recon/r_sin_1_gt.gif" width="200" height="200"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/recon/r_sin_1_fitted.gif" width="200" height="200"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/recon/r_b_1_pred.gif" width="200" height="200"/>
-
-<img src="https://github.com/WeiyuDu/motion_encode/blob/master/recon/r_sin_8_gt.gif" width="200" height="200"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/recon/r_sin_8_fitted.gif" width="200" height="200"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/recon/r_b_8_pred.gif" width="200" height="200"/>
-
-<img src="https://github.com/WeiyuDu/motion_encode/blob/master/recon/r_b_10_gt.gif" width="200" height="200"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/recon/r_sin_10_pred.gif" width="200" height="200"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/recon/r_b_10_pred.gif" width="200" height="200"/>
-
-<img src="https://github.com/WeiyuDu/motion_encode/blob/master/recon/r_b_11_gt.gif" width="200" height="200"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/recon/r_sin_11_pred.gif" width="200" height="200"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/recon/r_b_11_pred.gif" width="200" height="200"/>
-
 Generation at different lengths on Human3.6M using Sine Motion Encoding (3 curves). From left to right: ground truth (30 frames, fps=15), prediction (30 frames, fps=15), prediction (60 frames, fps=30). 
 
-<img src="https://github.com/WeiyuDu/motion_encode/blob/master/frame/frame_50_gt.gif" width="200" height="200"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/frame/frame_50_pred.gif" width="200" height="200"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/frame/frame_50_pred_long.gif" width="200" height="200"/>
+<img src="https://github.com/WeiyuDu/motion_encode/blob/master/frame/50_gt.gif" width="200" height="200"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/frame/50_pred.gif" width="200" height="200"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/frame/50_pred_long.gif" width="200" height="200"/>
 
-<img src="https://github.com/WeiyuDu/motion_encode/blob/master/frame/frame_5_gt.gif" width="200" height="200"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/frame/frame_5_pred.gif" width="200" height="200"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/frame/frame_5_pred_long.gif" width="200" height="200"/>
+<img src="https://github.com/WeiyuDu/motion_encode/blob/master/frame/64_gt.gif" width="200" height="200"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/frame/64_pred.gif" width="200" height="200"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/frame/64_pred_long.gif" width="200" height="200"/>
 
