@@ -10,9 +10,9 @@ From left to right: ground truth, prediction by Sine Motion Encoding, prediction
 <img src="https://github.com/WeiyuDu/motion_encode/blob/master/amass/40_gt.gif" width="200" height="200"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/amass/40_pred_sin.gif" width="200" height="200"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/amass/40_pred_b.gif" width="200" height="200"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/amass/40_lerp.gif" width="200" height="200"/>
 
 <img src="https://github.com/WeiyuDu/motion_encode/blob/master/amass/126_gt.gif" width="200" height="200"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/amass/126_pred_sin.gif" width="200" height="200"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/amass/126_pred_b.gif" width="200" height="200"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/amass/126_lerp.gif" width="200" height="200"/>
-<!---
+
 <img src="https://github.com/WeiyuDu/motion_encode/blob/master/demo/140_gt.gif" width="200" height="200"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/demo/140_pred_sin.gif" width="200" height="200"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/demo/140_pred_b.gif" width="200" height="200"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/demo/140_lerp.gif" width="200" height="200"/>
---->
+
 Human3.6M test set, sub-sampled 5 times, 30 frames demo.
 From left to right: ground truth, prediction by Sine Motion Encoding(6 curves), prediction by Sine Motion Encoding(3 curves), prediction by Bezier Motion Encoding, latent linear interpolation baseline.  
 <img src="https://github.com/WeiyuDu/motion_encode/blob/master/h36m/7_gt.gif" width="150" height="150"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/h36m/7_pred.gif" width="150" height="150"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/h36m/7_pred_sin.gif" width="150" height="150"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/h36m/7_pred_b.gif" width="150" height="150"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/h36m/7_lerp.gif" width="150" height="150"/>
@@ -25,4 +25,6 @@ From left to right: ground truth, prediction by Sine Motion Encoding(6 curves), 
 
 <img src="https://github.com/WeiyuDu/motion_encode/blob/master/h36m/71_gt.gif" width="150" height="150"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/h36m/71_pred.gif" width="150" height="150"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/h36m/71_pred_sin.gif" width="150" height="150"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/h36m/71_pred_b.gif" width="150" height="150"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/h36m/71_lerp.gif" width="150" height="150"/>
 
+<!---
 <img src="https://github.com/WeiyuDu/motion_encode/blob/master/h36m/91_gt.gif" width="150" height="150"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/h36m/91_pred.gif" width="150" height="150"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/h36m/91_pred_sin.gif" width="150" height="150"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/h36m/91_pred_b.gif" width="150" height="150"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/h36m/91_lerp.gif" width="150" height="150"/>
+--->
