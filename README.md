@@ -41,7 +41,7 @@ Reconstruction on AMASS test set, from left to right: ground truth, reconstructi
 
 Generation at different lengths on Human3.6M using Sine Motion Encoding (3 curves). From left to right: ground truth (30 frames, fps=15), prediction (30 frames, fps=15), prediction (60 frames, fps=30). 
 
-<img src="https://github.com/WeiyuDu/motion_encode/blob/master/recon/frame_50_gt.gif" width="200" height="200"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/recon/frame_50_pred.gif" width="200" height="200"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/recon/frame_50_pred_long.gif" width="200" height="200"/>
+<img src="https://github.com/WeiyuDu/motion_encode/blob/master/frame/frame_50_gt.gif" width="200" height="200"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/frame/frame_50_pred.gif" width="200" height="200"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/frame/frame_50_pred_long.gif" width="200" height="200"/>
 
-<img src="https://github.com/WeiyuDu/motion_encode/blob/master/recon/frame_5_gt.gif" width="200" height="200"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/recon/frame_5_pred.gif" width="200" height="200"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/recon/frame_5_pred_long.gif" width="200" height="200"/>
+<img src="https://github.com/WeiyuDu/motion_encode/blob/master/frame/frame_5_gt.gif" width="200" height="200"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/frame/frame_5_pred.gif" width="200" height="200"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/frame/frame_5_pred_long.gif" width="200" height="200"/>
 
