@@ -10,6 +10,7 @@ Motion reconstruction on AMASS test set, from left to right: ground truth, recon
 
 <img src="https://github.com/WeiyuDu/motion_encode/blob/master/recon/r_b_11_gt.gif" width="200" height="200"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/recon/r_sin_11_pred.gif" width="200" height="200"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/recon/r_b_11_pred.gif" width="200" height="200"/>
 
+## Motion Generation
 Point-to-point motion generation on AMASS test set (30 frames), from left to right: ground truth, prediction by Sine Motion Encoding, prediction by Bezier Motion Encoding, latent linear interpolation baseline.  
 
 <img src="https://github.com/WeiyuDu/motion_encode/blob/master/amass/60_gt.gif" width="200" height="200"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/amass/60_pred_sin.gif" width="200" height="200"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/amass/60_pred_b.gif" width="200" height="200"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/amass/60_lerp.gif" width="200" height="200"/>
@@ -22,7 +23,6 @@ Point-to-point motion generation on AMASS test set (30 frames), from left to rig
 
 <img src="https://github.com/WeiyuDu/motion_encode/blob/master/amass/126_gt.gif" width="200" height="200"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/amass/126_pred_sin.gif" width="200" height="200"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/amass/126_pred_b.gif" width="200" height="200"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/amass/126_lerp.gif" width="200" height="200"/>
 
-## Motion Generation
 Point-to-point motion generation on Human3.6M test set (sub-sampled 5 times, 30 frames), from left to right: ground truth, prediction by Sine Motion Encoding(6 curves), prediction by Sine Motion Encoding(3 curves), prediction by Bezier Motion Encoding, latent linear interpolation baseline.  
 
 <img src="https://github.com/WeiyuDu/motion_encode/blob/master/h36m/26_gt.gif" width="150" height="150"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/h36m/26_pred.gif" width="150" height="150"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/h36m/26_pred_sin.gif" width="150" height="150"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/h36m/26_pred_b.gif" width="150" height="150"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/h36m/26_lerp.gif" width="150" height="150"/>
