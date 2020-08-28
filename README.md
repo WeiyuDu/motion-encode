@@ -1,5 +1,5 @@
-## Toward Continuous-Time Representation of Human Motion
-# Motion Reconstruction
+# Toward Continuous-Time Representation of Human Motion
+## Motion Reconstruction
 Motion reconstruction on AMASS test set, from left to right: ground truth, reconstruction with Sine Motion Encoding, reconstruction with Bezier Motion Encoding.   
 
 <img src="https://github.com/WeiyuDu/motion_encode/blob/master/recon/r_sin_1_gt.gif" width="200" height="200"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/recon/r_sin_1_fitted.gif" width="200" height="200"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/recon/r_b_1_pred.gif" width="200" height="200"/>
@@ -22,7 +22,7 @@ Point-to-point motion generation on AMASS test set (30 frames), from left to rig
 
 <img src="https://github.com/WeiyuDu/motion_encode/blob/master/amass/126_gt.gif" width="200" height="200"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/amass/126_pred_sin.gif" width="200" height="200"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/amass/126_pred_b.gif" width="200" height="200"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/amass/126_lerp.gif" width="200" height="200"/>
 
-# Motion Generation
+## Motion Generation
 Point-to-point motion generation on Human3.6M test set (sub-sampled 5 times, 30 frames), from left to right: ground truth, prediction by Sine Motion Encoding(6 curves), prediction by Sine Motion Encoding(3 curves), prediction by Bezier Motion Encoding, latent linear interpolation baseline.  
 
 <img src="https://github.com/WeiyuDu/motion_encode/blob/master/h36m/26_gt.gif" width="150" height="150"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/h36m/26_pred.gif" width="150" height="150"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/h36m/26_pred_sin.gif" width="150" height="150"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/h36m/26_pred_b.gif" width="150" height="150"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/h36m/26_lerp.gif" width="150" height="150"/>
@@ -35,7 +35,7 @@ Point-to-point motion generation on Human3.6M test set (sub-sampled 5 times, 30 
 
 <img src="https://github.com/WeiyuDu/motion_encode/blob/master/h36m/71_gt.gif" width="150" height="150"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/h36m/71_pred.gif" width="150" height="150"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/h36m/71_pred_sin.gif" width="150" height="150"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/h36m/71_pred_b.gif" width="150" height="150"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/h36m/71_lerp.gif" width="150" height="150"/>
 
-# Variable Frequency Motion Generation
+## Variable Frequency Motion Generation
 Motion generation at different lengths and frame rates on Human3.6M test set using Sine Motion Encoding (3 curves), from left to right: ground truth (30 frames, fps=12), prediction (30 frames, fps=12), prediction (60 frames, fps=24). 
 
 <img src="https://github.com/WeiyuDu/motion_encode/blob/master/frame/50_gt.gif" width="200" height="200"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/frame/50_pred.gif" width="200" height="200"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/frame/50_pred_long.gif" width="200" height="200"/>
