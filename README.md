@@ -1,4 +1,10 @@
 # Toward Continuous-Time Representation of Human Motion
+Weiyu Du, Oleh Rybkin, Lingzhi Zhang, Jianbo Shi <br/>
+ECCV 2020 Workshop on Perception Through Structured Generative Models
+(http://generativeperception.com/)<br/>
+[link to paper](http://generativeperception.com/papers/toward_continuous_time_representations_of_human_motion.pdf)    
+[link to video presentation](https://www.youtube.com/watch?v=EAOo-whr0HI&feature=emb_title)<br/>
+
 ## Motion Reconstruction
 Motion reconstruction on AMASS test set, from left to right: ground truth, reconstruction with Sine Motion Encoding, reconstruction with Bezier Motion Encoding.   
 
