@@ -19,7 +19,7 @@ Motion reconstruction on AMASS test set, from left to right: ground truth, recon
 ## Motion Generation
 Point-to-point motion generation on AMASS test set (30 frames), from left to right: ground truth, prediction by Sine Motion Encoding, prediction by Bezier Motion Encoding, latent linear interpolation baseline.  
 
-<img src="https://github.com/WeiyuDu/motion_encode/blob/master/amass/60_gt.gif" width="160" height="160"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/amass/60_pred_sin.gif" width="160" height="160"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/amass/60_pred_b.gif" width="160" height="160"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/amass/60_lerp.gif" width="160" height="160"/>
+<img src="https://github.com/WeiyuDu/motion_encode/blob/master/amass/60_gt.gif" width="150" height="150"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/amass/60_pred_sin.gif" width="150" height="150"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/amass/60_pred_b.gif" width="150" height="150"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/amass/60_lerp.gif" width="150" height="150"/>
 
 <img src="https://github.com/WeiyuDu/motion_encode/blob/master/amass/42_gt.gif" width="180" height="180"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/amass/42_pred_sin.gif" width="180" height="180"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/amass/42_pred_b.gif" width="180" height="180"/><img src="https://github.com/WeiyuDu/motion_encode/blob/master/amass/42_lerp.gif" width="180" height="180"/>
 
